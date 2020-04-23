@@ -35,29 +35,50 @@ url = 'https://query.wikidata.org/sparql'
 # }
 # """
 
-## This query selects all events that are an instance of war, AND that the event participant is United States
+# This query selects all events that are an instance of war, AND that the event participant is United States
+# query = """
+# SELECT 
+  # ?event ?eventLabel ?startDate ?endDate
+# WHERE {
+  # ?event wdt:P31/wdt:P279* wd:Q198.
+  # ?event wdt:P710 wd:Q30.
+  # ?event wdt:P580 ?startDate.
+  # ?event wdt:P582 ?endDate.
+  # SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+# }
+# """
+
+## This query selects all events that are an instance of war, AND all the participants
 query = """
 SELECT 
-  ?event ?eventLabel
+  ?event ?eventLabel ?startDate ?endDate ?participants
 WHERE {
   ?event wdt:P31/wdt:P279* wd:Q198.
-  ?event wdt:P710 wd:Q30.
+  ?event wdt:P710 ?participants.
+  ?event wdt:P580 ?startDate.
+  ?event wdt:P582 ?endDate.
   SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
 }
 """
+
 r = requests.get(url, params = {'format': 'json', 'query': query})
 # print(r.text)
 data = r.json()
-print(data)
+# print(data)
 
 wars = []
 for item in data['results']['bindings']:
     wars.append(OrderedDict({
-        'war': item['event']['value'],
-        'warLabel': item['eventLabel']['value']}))
+        'war_Qid': item['event']['value'].split('/')[-1],
+        'warLabel': item['eventLabel']['value'],
+        'startDate': item['startDate']['value'],
+        'endDate': item['endDate']['value'],
+        'participants': item['participants']['value']
+        }))
 
 df = pd.DataFrame(wars)
 print(df)
+# df.to_csv('./ALL_wars_AND_participants.tsv', sep='\t')
 
 
 
