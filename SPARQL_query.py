@@ -73,7 +73,7 @@ for item in data['results']['bindings']:
         'warLabel': item['eventLabel']['value'],
         'startDate': item['startDate']['value'],
         'endDate': item['endDate']['value'],
-        'participants': item['participants']['value']
+        'participants': item['participants']['value'].split('/')[-1]
         }))
 
 df = pd.DataFrame(wars)
