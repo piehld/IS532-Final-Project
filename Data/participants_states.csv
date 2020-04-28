@@ -1,0 +1,162 @@
+participant,participantLabel,participantDescription,countryCode,inception,dissolved,government,governmentLabel,participantID,govtID
+http://www.wikidata.org/entity/Q142,France,sovereign state with mainland in Europe and several overseas territories,FRA,,,http://www.wikidata.org/entity/Q49890,semi-presidential system,Q142,Q49890
+http://www.wikidata.org/entity/Q142,France,sovereign state with mainland in Europe and several overseas territories,FRA,,,http://www.wikidata.org/entity/Q179164,unitary state,Q142,Q179164
+http://www.wikidata.org/entity/Q142,France,sovereign state with mainland in Europe and several overseas territories,FRA,,,http://www.wikidata.org/entity/Q188961,decentralization,Q142,Q188961
+http://www.wikidata.org/entity/Q30,United States of America,country in North America,USA,1776-07-04T00:00:00Z,,http://www.wikidata.org/entity/Q49892,presidential system,Q30,Q49892
+http://www.wikidata.org/entity/Q145,United Kingdom,"sovereign state in the British Isles, off the northwestern coast of continental Europe",GBR,1927-04-12T00:00:00Z,,http://www.wikidata.org/entity/Q41614,constitutional monarchy,Q145,Q41614
+http://www.wikidata.org/entity/Q36,Poland,sovereign state in Central Europe,POL,1918-11-11T00:00:00Z,,http://www.wikidata.org/entity/Q166747,parliamentary system,Q36,Q166747
+http://www.wikidata.org/entity/Q30,United States of America,country in North America,USA,1776-07-04T00:00:00Z,,http://www.wikidata.org/entity/Q512187,federal republic,Q30,Q512187
+http://www.wikidata.org/entity/Q114,Kenya,sovereign state in East Africa,KEN,1963-01-01T00:00:00Z,,,,Q114,
+http://www.wikidata.org/entity/Q43,Turkey,sovereign state straddling Southeastern Europe and Western Asia,TUR,1923-10-29T00:00:00Z,,http://www.wikidata.org/entity/Q7270,republic,Q43,Q7270
+http://www.wikidata.org/entity/Q35,Denmark,sovereign state and Scandinavian country in northern Europe,DNK,0800-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q41614,constitutional monarchy,Q35,Q41614
+http://www.wikidata.org/entity/Q115,Ethiopia,Country in East Africa,ETH,1941-05-05T00:00:00Z,,http://www.wikidata.org/entity/Q512187,federal republic,Q115,Q512187
+http://www.wikidata.org/entity/Q96,Mexico,sovereign state in the southern portion of North America,MEX,1810-09-16T00:00:00Z,,http://www.wikidata.org/entity/Q512187,federal republic,Q96,Q512187
+http://www.wikidata.org/entity/Q38,Italy,sovereign state in Southern Europe,ITA,1946-06-18T00:00:00Z,,http://www.wikidata.org/entity/Q4198907,parliamentary republic,Q38,Q4198907
+http://www.wikidata.org/entity/Q79,Egypt,sovereign state in Africa and Asia,EGY,-3149-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q7270,republic,Q79,Q7270
+http://www.wikidata.org/entity/Q45,Portugal,sovereign state in southwestern Europe,PRT,1143-10-12T00:00:00Z,,http://www.wikidata.org/entity/Q7270,republic,Q45,Q7270
+http://www.wikidata.org/entity/Q79,Egypt,sovereign state in Africa and Asia,EGY,1922-02-28T00:00:00Z,,http://www.wikidata.org/entity/Q7270,republic,Q79,Q7270
+http://www.wikidata.org/entity/Q41,Greece,sovereign state in Southeast Europe,GRC,1821-04-06T00:00:00Z,,,,Q41,
+http://www.wikidata.org/entity/Q148,People's Republic of China,sovereign state in East Asia,CHN,1949-10-01T00:00:00Z,,http://www.wikidata.org/entity/Q1520223,constitutional republic,Q148,Q1520223
+http://www.wikidata.org/entity/Q148,People's Republic of China,sovereign state in East Asia,CHN,1949-10-01T00:00:00Z,,http://www.wikidata.org/entity/Q193852,democratic centralism,Q148,Q193852
+http://www.wikidata.org/entity/Q148,People's Republic of China,sovereign state in East Asia,CHN,1949-10-01T00:00:00Z,,http://www.wikidata.org/entity/Q179164,unitary state,Q148,Q179164
+http://www.wikidata.org/entity/Q148,People's Republic of China,sovereign state in East Asia,CHN,1949-10-01T00:00:00Z,,http://www.wikidata.org/entity/Q4198907,parliamentary republic,Q148,Q4198907
+http://www.wikidata.org/entity/Q148,People's Republic of China,sovereign state in East Asia,CHN,1949-10-01T00:00:00Z,,http://www.wikidata.org/entity/Q50686,single-party state,Q148,Q50686
+http://www.wikidata.org/entity/Q574,East Timor,sovereign state situated on several islands in Southeast Asia,TLS,2002-05-20T00:00:00Z,,http://www.wikidata.org/entity/Q49890,semi-presidential system,Q574,Q49890
+http://www.wikidata.org/entity/Q408,Australia,sovereign state in Oceania situated primarily on the mainland of the Australian continent,AUS,1901-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q41614,constitutional monarchy,Q408,Q41614
+http://www.wikidata.org/entity/Q657,Chad,sovereign state in central Africa,TCD,1960-08-11T00:00:00Z,,,,Q657,
+http://www.wikidata.org/entity/Q423,North Korea,sovereign state in East Asia,PRK,1948-09-09T00:00:00Z,,http://www.wikidata.org/entity/Q181800,Juche,Q423,Q181800
+http://www.wikidata.org/entity/Q408,Australia,sovereign state in Oceania situated primarily on the mainland of the Australian continent,AUS,1901-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q43702,federal state,Q408,Q43702
+http://www.wikidata.org/entity/Q424,Cambodia,sovereign state in Southeast Asia,KHM,1953-11-09T00:00:00Z,,http://www.wikidata.org/entity/Q41614,constitutional monarchy,Q424,Q41614
+http://www.wikidata.org/entity/Q574,East Timor,sovereign state situated on several islands in Southeast Asia,TLS,2002-05-20T00:00:00Z,,http://www.wikidata.org/entity/Q179164,unitary state,Q574,Q179164
+http://www.wikidata.org/entity/Q574,East Timor,sovereign state situated on several islands in Southeast Asia,TLS,2002-05-20T00:00:00Z,,http://www.wikidata.org/entity/Q4198907,parliamentary republic,Q574,Q4198907
+http://www.wikidata.org/entity/Q664,New Zealand,"sovereign state in Oceania, situated on two main and around 600 smaller islands in the southwestern Pacific Ocean",NZL,,,http://www.wikidata.org/entity/Q41614,constitutional monarchy,Q664,Q41614
+http://www.wikidata.org/entity/Q739,Colombia,sovereign state in South America,COL,1810-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q7270,republic,Q739,Q7270
+http://www.wikidata.org/entity/Q423,North Korea,sovereign state in East Asia,PRK,1948-09-09T00:00:00Z,,http://www.wikidata.org/entity/Q5433328,family dictatorship,Q423,Q5433328
+http://www.wikidata.org/entity/Q408,Australia,sovereign state in Oceania situated primarily on the mainland of the Australian continent,AUS,1901-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q3330103,parliamentary monarchy,Q408,Q3330103
+http://www.wikidata.org/entity/Q574,East Timor,sovereign state situated on several islands in Southeast Asia,TLS,2002-05-20T00:00:00Z,,http://www.wikidata.org/entity/Q7270,republic,Q574,Q7270
+http://www.wikidata.org/entity/Q423,North Korea,sovereign state in East Asia,PRK,1948-09-09T00:00:00Z,,http://www.wikidata.org/entity/Q50686,single-party state,Q423,Q50686
+http://www.wikidata.org/entity/Q664,New Zealand,"sovereign state in Oceania, situated on two main and around 600 smaller islands in the southwestern Pacific Ocean",NZL,,,http://www.wikidata.org/entity/Q3330103,parliamentary monarchy,Q664,Q3330103
+http://www.wikidata.org/entity/Q774,Guatemala,sovereign state in Central America,GTM,1821-01-01T00:00:00Z,,,,Q774,
+http://www.wikidata.org/entity/Q1037,Rwanda,sovereign state in Africa,RWA,1962-01-01T00:00:00Z,,,,Q1037,
+http://www.wikidata.org/entity/Q170468,United Arab Republic,former country,,1958-01-01T00:00:00Z,1961-09-28T00:00:00Z,http://www.wikidata.org/entity/Q49890,semi-presidential system,Q170468,Q49890
+http://www.wikidata.org/entity/Q207521,Ethiopian Empire,1270–1974 empire in East Africa,,1137-01-01T00:00:00Z,1974-01-01T00:00:00Z,http://www.wikidata.org/entity/Q41614,constitutional monarchy,Q207521,Q41614
+http://www.wikidata.org/entity/Q1049,Sudan,sovereign state in Northeast Africa,SDN,1956-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q512187,federal republic,Q1049,Q512187
+http://www.wikidata.org/entity/Q1045,Somalia,sovereign state in Africa,SOM,1960-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q512187,federal republic,Q1045,Q512187
+http://www.wikidata.org/entity/Q1041,Senegal,sovereign state in Western Africa,SEN,1960-01-01T00:00:00Z,,,,Q1041,
+http://www.wikidata.org/entity/Q207521,Ethiopian Empire,1270–1974 empire in East Africa,,1137-01-01T00:00:00Z,1974-01-01T00:00:00Z,http://www.wikidata.org/entity/Q184558,absolute monarchy,Q207521,Q184558
+http://www.wikidata.org/entity/Q170468,United Arab Republic,former country,,1958-01-01T00:00:00Z,1961-09-28T00:00:00Z,http://www.wikidata.org/entity/Q43702,federal state,Q170468,Q43702
+http://www.wikidata.org/entity/Q262,Algeria,sovereign state in North Africa,DZA,1962-07-05T00:00:00Z,,,,Q262,
+http://www.wikidata.org/entity/Q212,Ukraine,sovereign state in Eastern Europe,UKR,1991-08-24T00:00:00Z,,http://www.wikidata.org/entity/Q7270,republic,Q212,Q7270
+http://www.wikidata.org/entity/Q159,Russia,sovereign state in Eastern Europe and Northern Asia,RUS,1991-12-26T00:00:00Z,,http://www.wikidata.org/entity/Q49890,semi-presidential system,Q159,Q49890
+http://www.wikidata.org/entity/Q258,South Africa,sovereign state in Southern Africa,ZAF,1910-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q188759,representative democracy,Q258,Q188759
+http://www.wikidata.org/entity/Q258,South Africa,sovereign state in Southern Africa,ZAF,1910-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q4198907,parliamentary republic,Q258,Q4198907
+http://www.wikidata.org/entity/Q159,Russia,sovereign state in Eastern Europe and Northern Asia,RUS,1991-12-26T00:00:00Z,,http://www.wikidata.org/entity/Q188759,representative democracy,Q159,Q188759
+http://www.wikidata.org/entity/Q241,Cuba,sovereign state situated on an island in the Caribbean Sea,CUB,1898-12-10T00:00:00Z,,,,Q241,
+http://www.wikidata.org/entity/Q159,Russia,sovereign state in Eastern Europe and Northern Asia,RUS,1991-12-26T00:00:00Z,,http://www.wikidata.org/entity/Q512187,federal republic,Q159,Q512187
+http://www.wikidata.org/entity/Q217,Moldova,sovereign state in Eastern Europe,MDA,1991-08-27T00:00:00Z,,http://www.wikidata.org/entity/Q4198907,parliamentary republic,Q217,Q4198907
+http://www.wikidata.org/entity/Q212,Ukraine,sovereign state in Eastern Europe,UKR,1991-08-24T00:00:00Z,,http://www.wikidata.org/entity/Q49890,semi-presidential system,Q212,Q49890
+http://www.wikidata.org/entity/Q215,Slovenia,sovereign state in Central Europe,SVN,1991-06-25T00:00:00Z,,http://www.wikidata.org/entity/Q5255892,plutocratic oligarchy,Q215,Q5255892
+http://www.wikidata.org/entity/Q230,Georgia,Country in the Caucasus,GEO,1991-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q49890,semi-presidential system,Q230,Q49890
+http://www.wikidata.org/entity/Q232,Kazakhstan,sovereign state in Eastern Europe and Central Asia,KAZ,1991-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q49892,presidential system,Q232,Q49892
+http://www.wikidata.org/entity/Q399,Armenia,sovereign state in the South Caucasus region of Eurasia,ARM,1991-09-23T00:00:00Z,,http://www.wikidata.org/entity/Q7270,republic,Q399,Q7270
+http://www.wikidata.org/entity/Q252,Indonesia,"sovereign state in Southeast Asia situated on more than 17,000 islands",IDN,1945-08-17T00:00:00Z,,http://www.wikidata.org/entity/Q7270,republic,Q252,Q7270
+http://www.wikidata.org/entity/Q212,Ukraine,sovereign state in Eastern Europe,UKR,1991-08-24T00:00:00Z,,http://www.wikidata.org/entity/Q188759,representative democracy,Q212,Q188759
+http://www.wikidata.org/entity/Q212,Ukraine,sovereign state in Eastern Europe,UKR,1991-08-24T00:00:00Z,,http://www.wikidata.org/entity/Q16711032,Q16711032,Q212,Q16711032
+http://www.wikidata.org/entity/Q212,Ukraine,sovereign state in Eastern Europe,UKR,1991-08-24T00:00:00Z,,http://www.wikidata.org/entity/Q179164,unitary state,Q212,Q179164
+http://www.wikidata.org/entity/Q265,Uzbekistan,sovereign state in Central Asia,UZB,1991-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q49892,presidential system,Q265,Q49892
+http://www.wikidata.org/entity/Q227,Azerbaijan,sovereign state in Western Asia and Eastern Europe,AZE,1991-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q7270,republic,Q227,Q7270
+http://www.wikidata.org/entity/Q31,Belgium,sovereign state in Western Europe,BEL,1830-10-04T00:00:00Z,,http://www.wikidata.org/entity/Q3330103,parliamentary monarchy,Q31,Q3330103
+http://www.wikidata.org/entity/Q32,Luxembourg,sovereign state in Western Europe,LUX,1815-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q41614,constitutional monarchy,Q32,Q41614
+http://www.wikidata.org/entity/Q31,Belgium,sovereign state in Western Europe,BEL,1830-10-04T00:00:00Z,,http://www.wikidata.org/entity/Q41614,constitutional monarchy,Q31,Q41614
+http://www.wikidata.org/entity/Q224,Croatia,sovereign state in Central Europe,HRV,1991-06-25T00:00:00Z,,http://www.wikidata.org/entity/Q7270,republic,Q224,Q7270
+http://www.wikidata.org/entity/Q213,Czech Republic,sovereign state in Central Europe,CZE,1993-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q4198907,parliamentary republic,Q213,Q4198907
+http://www.wikidata.org/entity/Q189,Iceland,"sovereign state in Northern Europe, situated on an island in the far North Atlantic Ocean",ISL,1918-12-01T00:00:00Z,,http://www.wikidata.org/entity/Q4198907,parliamentary republic,Q189,Q4198907
+http://www.wikidata.org/entity/Q222,Albania,sovereign state in Southeast Europe,ALB,1912-11-28T00:00:00Z,,http://www.wikidata.org/entity/Q166747,parliamentary system,Q222,Q166747
+http://www.wikidata.org/entity/Q218,Romania,sovereign state in Europe,ROU,1859-02-05T00:00:00Z,,http://www.wikidata.org/entity/Q49890,semi-presidential system,Q218,Q49890
+http://www.wikidata.org/entity/Q851,Saudi Arabia,sovereign state in Western Asia,SAU,1727-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q184558,absolute monarchy,Q851,Q184558
+http://www.wikidata.org/entity/Q858,Syria,sovereign state in Western Asia,SYR,1920-03-08T00:00:00Z,,http://www.wikidata.org/entity/Q50686,single-party state,Q858,Q50686
+http://www.wikidata.org/entity/Q884,South Korea,sovereign state in East Asia,KOR,1948-08-15T00:00:00Z,,http://www.wikidata.org/entity/Q7270,republic,Q884,Q7270
+http://www.wikidata.org/entity/Q967,Burundi,sovereign state in Africa,BDI,1962-07-01T00:00:00Z,,,,Q967,
+http://www.wikidata.org/entity/Q884,South Korea,sovereign state in East Asia,KOR,1948-08-15T00:00:00Z,,http://www.wikidata.org/entity/Q49892,presidential system,Q884,Q49892
+http://www.wikidata.org/entity/Q1032,Niger,sovereign state in Western Africa,NER,1960-01-01T00:00:00Z,,,,Q1032,
+http://www.wikidata.org/entity/Q869,Thailand,sovereign state in Southeast Asia,THA,1238-01-01T00:00:00Z,,,,Q869,
+http://www.wikidata.org/entity/Q854,Sri Lanka,"sovereign state in South Asia, situated on an island in the Indian Ocean",LKA,1972-05-22T00:00:00Z,,,,Q854,
+http://www.wikidata.org/entity/Q869,Thailand,sovereign state in Southeast Asia,THA,1768-12-28T00:00:00Z,,,,Q869,
+http://www.wikidata.org/entity/Q916,Angola,sovereign state in Africa,AGO,,,,,Q916,
+http://www.wikidata.org/entity/Q794,Iran,sovereign state in Western Asia,IRN,1979-04-01T00:00:00Z,,http://www.wikidata.org/entity/Q672729,Islamic republic,Q794,Q672729
+http://www.wikidata.org/entity/Q858,Syria,sovereign state in Western Asia,SYR,1920-03-08T00:00:00Z,,http://www.wikidata.org/entity/Q49890,semi-presidential system,Q858,Q49890
+http://www.wikidata.org/entity/Q813,Kyrgyzstan,sovereign state in Central Asia,KGZ,1991-01-01T00:00:00Z,,,,Q813,
+http://www.wikidata.org/entity/Q863,Tajikistan,sovereign state in Central Asia,TJK,1991-09-09T00:00:00Z,,,,Q863,
+http://www.wikidata.org/entity/Q1016,Libya,sovereign state in north Africa,LBY,1951-12-24T00:00:00Z,,,,Q1016,
+http://www.wikidata.org/entity/Q858,Syria,sovereign state in Western Asia,SYR,1920-03-08T00:00:00Z,,http://www.wikidata.org/entity/Q179164,unitary state,Q858,Q179164
+http://www.wikidata.org/entity/Q971,Republic of the Congo,sovereign state in Central Africa,COG,1960-01-01T00:00:00Z,,,,Q971,
+http://www.wikidata.org/entity/Q858,Syria,sovereign state in Western Asia,SYR,1920-03-08T00:00:00Z,,http://www.wikidata.org/entity/Q4198907,parliamentary republic,Q858,Q4198907
+http://www.wikidata.org/entity/Q1030,Namibia,sovereign state in southern Africa,NAM,1990-01-01T00:00:00Z,,,,Q1030,
+http://www.wikidata.org/entity/Q928,Philippines,"sovereign state in Southeast Asia, situated on an archipelago of over 7,600 islands in the western Pacific Ocean",PHL,1565-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q7270,republic,Q928,Q7270
+http://www.wikidata.org/entity/Q1028,Morocco,sovereign state in North Africa,MAR,1956-04-07T00:00:00Z,,http://www.wikidata.org/entity/Q7269,monarchy,Q1028,Q7269
+http://www.wikidata.org/entity/Q801,Israel,sovereign state in Western Asia,ISR,1948-05-14T00:00:00Z,,http://www.wikidata.org/entity/Q4198907,parliamentary republic,Q801,Q4198907
+http://www.wikidata.org/entity/Q1033,Nigeria,sovereign state in West Africa,NGA,1960-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q512187,federal republic,Q1033,Q512187
+http://www.wikidata.org/entity/Q1025,Mauritania,sovereign state in Africa,MRT,1960-01-01T00:00:00Z,,,,Q1025,
+http://www.wikidata.org/entity/Q1014,Liberia,sovereign state in West Africa,LBR,1822-01-07T00:00:00Z,,http://www.wikidata.org/entity/Q7270,republic,Q1014,Q7270
+http://www.wikidata.org/entity/Q16,Canada,sovereign state in North America,CAN,1867-07-01T00:00:00Z,,http://www.wikidata.org/entity/Q43702,federal state,Q16,Q43702
+http://www.wikidata.org/entity/Q20,Norway,sovereign state in Northern Europe,NOR,1814-05-17T00:00:00Z,,http://www.wikidata.org/entity/Q41614,constitutional monarchy,Q20,Q41614
+http://www.wikidata.org/entity/Q20,Norway,sovereign state in Northern Europe,NOR,1905-06-07T00:00:00Z,,http://www.wikidata.org/entity/Q41614,constitutional monarchy,Q20,Q41614
+http://www.wikidata.org/entity/Q28,Hungary,sovereign state in Central Europe,HUN,1000-12-01T00:00:00Z,,http://www.wikidata.org/entity/Q4198907,parliamentary republic,Q28,Q4198907
+http://www.wikidata.org/entity/Q16,Canada,sovereign state in North America,CAN,1867-07-01T00:00:00Z,,http://www.wikidata.org/entity/Q3330103,parliamentary monarchy,Q16,Q3330103
+http://www.wikidata.org/entity/Q20,Norway,sovereign state in Northern Europe,NOR,0900-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q41614,constitutional monarchy,Q20,Q41614
+http://www.wikidata.org/entity/Q20,Norway,sovereign state in Northern Europe,NOR,1905-10-26T00:00:00Z,,http://www.wikidata.org/entity/Q41614,constitutional monarchy,Q20,Q41614
+http://www.wikidata.org/entity/Q20,Norway,sovereign state in Northern Europe,NOR,1814-05-17T00:00:00Z,,http://www.wikidata.org/entity/Q188759,representative democracy,Q20,Q188759
+http://www.wikidata.org/entity/Q20,Norway,sovereign state in Northern Europe,NOR,1905-06-07T00:00:00Z,,http://www.wikidata.org/entity/Q188759,representative democracy,Q20,Q188759
+http://www.wikidata.org/entity/Q20,Norway,sovereign state in Northern Europe,NOR,0900-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q188759,representative democracy,Q20,Q188759
+http://www.wikidata.org/entity/Q20,Norway,sovereign state in Northern Europe,NOR,1905-10-26T00:00:00Z,,http://www.wikidata.org/entity/Q188759,representative democracy,Q20,Q188759
+http://www.wikidata.org/entity/Q29,Spain,sovereign state in Southwestern Europe,ESP,1479-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q3330103,parliamentary monarchy,Q29,Q3330103
+http://www.wikidata.org/entity/Q16,Canada,sovereign state in North America,CAN,1867-07-01T00:00:00Z,,http://www.wikidata.org/entity/Q41614,constitutional monarchy,Q16,Q41614
+http://www.wikidata.org/entity/Q2006542,Dominion of Pakistan,state in Asia 15 August 1947 – 23 March 1956,,1947-01-01T00:00:00Z,1956-01-01T00:00:00Z,http://www.wikidata.org/entity/Q223832,dominion of the British Empire,Q2006542,Q223832
+http://www.wikidata.org/entity/Q986,Eritrea,sovereign state in the Horn of Africa,ERI,1993-05-24T00:00:00Z,,,,Q986,
+http://www.wikidata.org/entity/Q1036,Uganda,sovereign state in East Africa,UGA,1962-01-01T00:00:00Z,,,,Q1036,
+http://www.wikidata.org/entity/Q183,Germany,sovereign state in central-western Europe,DEU,,,http://www.wikidata.org/entity/Q5440547,federal parliamentary republic,Q183,Q5440547
+http://www.wikidata.org/entity/Q977,Djibouti,sovereign state in Africa,DJI,1977-06-23T00:00:00Z,,,,Q977,
+http://www.wikidata.org/entity/Q2006542,Dominion of Pakistan,state in Asia 15 August 1947 – 23 March 1956,,1947-01-01T00:00:00Z,1956-01-01T00:00:00Z,http://www.wikidata.org/entity/Q41614,constitutional monarchy,Q2006542,Q41614
+http://www.wikidata.org/entity/Q843,Pakistan,sovereign state in South Asia,PAK,1947-08-14T00:00:00Z,,http://www.wikidata.org/entity/Q512187,federal republic,Q843,Q512187
+http://www.wikidata.org/entity/Q881,Vietnam,sovereign state in Southeast Asia,VNM,1976-07-02T00:00:00Z,,,,Q881,
+http://www.wikidata.org/entity/Q881,Vietnam,sovereign state in Southeast Asia,VNM,1945-09-02T00:00:00Z,,,,Q881,
+http://www.wikidata.org/entity/Q912,Mali,sovereign state in West Africa,MLI,1960-09-22T00:00:00Z,,,,Q912,
+http://www.wikidata.org/entity/Q817,Kuwait,sovereign state in Western Asia,KWT,1991-02-26T00:00:00Z,,http://www.wikidata.org/entity/Q41614,constitutional monarchy,Q817,Q41614
+http://www.wikidata.org/entity/Q822,Lebanon,sovereign state in Western Asia,LBN,1943-11-22T00:00:00Z,,,,Q822,
+http://www.wikidata.org/entity/Q810,Jordan,sovereign state in Western Asia,JOR,1946-01-01T00:00:00Z,,,,Q810,
+http://www.wikidata.org/entity/Q889,Afghanistan,"sovereign state situated at the confluence of Western, Central, and South Asia",AFG,1978-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q672729,Islamic republic,Q889,Q672729
+http://www.wikidata.org/entity/Q948,Tunisia,sovereign state in Northern Africa,TUN,1956-03-20T00:00:00Z,,http://www.wikidata.org/entity/Q49890,semi-presidential system,Q948,Q49890
+http://www.wikidata.org/entity/Q889,Afghanistan,"sovereign state situated at the confluence of Western, Central, and South Asia",AFG,1926-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q672729,Islamic republic,Q889,Q672729
+http://www.wikidata.org/entity/Q948,Tunisia,sovereign state in Northern Africa,TUN,1956-03-20T00:00:00Z,,http://www.wikidata.org/entity/Q4198907,parliamentary republic,Q948,Q4198907
+http://www.wikidata.org/entity/Q954,Zimbabwe,sovereign state in southern Africa,ZWE,1980-04-18T00:00:00Z,,,,Q954,
+http://www.wikidata.org/entity/Q889,Afghanistan,"sovereign state situated at the confluence of Western, Central, and South Asia",AFG,1709-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q672729,Islamic republic,Q889,Q672729
+http://www.wikidata.org/entity/Q929,Central African Republic,sovereign state in Africa,CAF,1960-01-01T00:00:00Z,,,,Q929,
+http://www.wikidata.org/entity/Q889,Afghanistan,"sovereign state situated at the confluence of Western, Central, and South Asia",AFG,2002-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q672729,Islamic republic,Q889,Q672729
+http://www.wikidata.org/entity/Q889,Afghanistan,"sovereign state situated at the confluence of Western, Central, and South Asia",AFG,1823-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q672729,Islamic republic,Q889,Q672729
+http://www.wikidata.org/entity/Q889,Afghanistan,"sovereign state situated at the confluence of Western, Central, and South Asia",AFG,1973-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q672729,Islamic republic,Q889,Q672729
+http://www.wikidata.org/entity/Q889,Afghanistan,"sovereign state situated at the confluence of Western, Central, and South Asia",AFG,1747-06-19T00:00:00Z,,http://www.wikidata.org/entity/Q672729,Islamic republic,Q889,Q672729
+http://www.wikidata.org/entity/Q889,Afghanistan,"sovereign state situated at the confluence of Western, Central, and South Asia",AFG,1992-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q672729,Islamic republic,Q889,Q672729
+http://www.wikidata.org/entity/Q924,Tanzania,sovereign state in Africa,TZA,1964-04-26T00:00:00Z,,,,Q924,
+http://www.wikidata.org/entity/Q414,Argentina,sovereign state in South America,ARG,1816-07-09T00:00:00Z,,http://www.wikidata.org/entity/Q512187,federal republic,Q414,Q512187
+http://www.wikidata.org/entity/Q419,Peru,sovereign state in South America,PER,1821-07-28T00:00:00Z,,http://www.wikidata.org/entity/Q7270,republic,Q419,Q7270
+http://www.wikidata.org/entity/Q783,Honduras,sovereign state in Central America,HND,1821-01-01T00:00:00Z,,,,Q783,
+http://www.wikidata.org/entity/Q796,Iraq,sovereign state in Western Asia,IRQ,1932-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q512187,federal republic,Q796,Q512187
+http://www.wikidata.org/entity/Q792,El Salvador,sovereign state in Central America,SLV,1842-01-01T00:00:00Z,,,,Q792,
+http://www.wikidata.org/entity/Q668,India,sovereign state in South Asia,IND,1947-08-15T00:00:00Z,,http://www.wikidata.org/entity/Q512187,federal republic,Q668,Q512187
+http://www.wikidata.org/entity/Q668,India,sovereign state in South Asia,IND,1947-08-15T00:00:00Z,,http://www.wikidata.org/entity/Q3043547,parliamentary democracy,Q668,Q3043547
+http://www.wikidata.org/entity/Q736,Ecuador,sovereign state in South America,ECU,1811-10-11T00:00:00Z,,http://www.wikidata.org/entity/Q7270,republic,Q736,Q7270
+http://www.wikidata.org/entity/Q736,Ecuador,sovereign state in South America,ECU,1822-05-24T00:00:00Z,,http://www.wikidata.org/entity/Q7270,republic,Q736,Q7270
+http://www.wikidata.org/entity/Q736,Ecuador,sovereign state in South America,ECU,1811-10-11T00:00:00Z,,http://www.wikidata.org/entity/Q49892,presidential system,Q736,Q49892
+http://www.wikidata.org/entity/Q736,Ecuador,sovereign state in South America,ECU,1822-05-24T00:00:00Z,,http://www.wikidata.org/entity/Q49892,presidential system,Q736,Q49892
+http://www.wikidata.org/entity/Q736,Ecuador,sovereign state in South America,ECU,1809-08-10T00:00:00Z,,http://www.wikidata.org/entity/Q7270,republic,Q736,Q7270
+http://www.wikidata.org/entity/Q736,Ecuador,sovereign state in South America,ECU,1809-08-10T00:00:00Z,,http://www.wikidata.org/entity/Q49892,presidential system,Q736,Q49892
+http://www.wikidata.org/entity/Q819,Laos,sovereign state in Southeast Asia,LAO,1949-01-01T00:00:00Z,,,,Q819,
+http://www.wikidata.org/entity/Q833,Malaysia,sovereign state in Southeast Asia,MYS,1957-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q584683,elective monarchy,Q833,Q584683
+http://www.wikidata.org/entity/Q833,Malaysia,sovereign state in Southeast Asia,MYS,1957-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q3208952,federal monarchy,Q833,Q3208952
+http://www.wikidata.org/entity/Q974,Democratic Republic of the Congo,sovereign state in Central Africa,COD,1960-06-30T00:00:00Z,,http://www.wikidata.org/entity/Q7270,republic,Q974,Q7270
+http://www.wikidata.org/entity/Q958,South Sudan,sovereign state in Africa,SSD,2011-07-09T00:00:00Z,,http://www.wikidata.org/entity/Q512187,federal republic,Q958,Q512187
+http://www.wikidata.org/entity/Q833,Malaysia,sovereign state in Southeast Asia,MYS,1957-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q41614,constitutional monarchy,Q833,Q41614
+http://www.wikidata.org/entity/Q963,Botswana,sovereign state in Southern Africa,BWA,1966-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q7270,republic,Q963,Q7270
+http://www.wikidata.org/entity/Q836,Myanmar,sovereign state in Southeast Asia,MMR,1948-01-04T00:00:00Z,,http://www.wikidata.org/entity/Q7270,republic,Q836,Q7270
+http://www.wikidata.org/entity/Q965,Burkina Faso,sovereign state in Africa,BFA,1960-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q7270,republic,Q965,Q7270
+http://www.wikidata.org/entity/Q833,Malaysia,sovereign state in Southeast Asia,MYS,1957-01-01T00:00:00Z,,http://www.wikidata.org/entity/Q3330103,parliamentary monarchy,Q833,Q3330103
