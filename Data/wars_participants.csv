@@ -35,15 +35,13 @@ http://www.wikidata.org/entity/Q190029,Kosovo War,http://www.wikidata.org/entity
 http://www.wikidata.org/entity/Q318250,Ethio-Somali War,http://www.wikidata.org/entity/Q199841,South Yemen,Q318250,Q199841
 http://www.wikidata.org/entity/Q327237,Kivu conflict,http://www.wikidata.org/entity/Q954,Zimbabwe,Q327237,Q954
 http://www.wikidata.org/entity/Q381375,Nagorno-Karabakh War,http://www.wikidata.org/entity/Q132856,Armenian Soviet Socialist Republic,Q381375,Q132856
+http://www.wikidata.org/entity/Q285280,War of Pridnestrovie,http://www.wikidata.org/entity/Q907112,Pridnestrovie,Q285280,Q907112
 http://www.wikidata.org/entity/Q443226,Contra insurgency,,,Q443226,
 http://www.wikidata.org/entity/Q318250,Ethio-Somali War,http://www.wikidata.org/entity/Q828005,Derg,Q318250,Q828005
 http://www.wikidata.org/entity/Q202465,Uganda–Tanzania War,http://www.wikidata.org/entity/Q26683,Palestine Liberation Organization,Q202465,Q26683
 http://www.wikidata.org/entity/Q318250,Ethio-Somali War,http://www.wikidata.org/entity/Q1462545,Western Somali Liberation Front,Q318250,Q1462545
-http://www.wikidata.org/entity/Q285280,War of Pridnestrovie,http://www.wikidata.org/entity/Q159,Russia,Q285280,Q159
 http://www.wikidata.org/entity/Q327237,Kivu conflict,http://www.wikidata.org/entity/Q963,Botswana,Q327237,Q963
-http://www.wikidata.org/entity/Q285280,War of Pridnestrovie,http://www.wikidata.org/entity/Q212,Ukraine,Q285280,Q212
 http://www.wikidata.org/entity/Q318250,Ethio-Somali War,http://www.wikidata.org/entity/Q1477220,Somali Democratic Republic,Q318250,Q1477220
-http://www.wikidata.org/entity/Q285280,War of Pridnestrovie,http://www.wikidata.org/entity/Q217,Moldova,Q285280,Q217
 http://www.wikidata.org/entity/Q327237,Kivu conflict,http://www.wikidata.org/entity/Q63345,March 23 Movement,Q327237,Q63345
 http://www.wikidata.org/entity/Q327237,Kivu conflict,http://www.wikidata.org/entity/Q974,Democratic Republic of the Congo,Q327237,Q974
 http://www.wikidata.org/entity/Q190758,Darfur conflict,http://www.wikidata.org/entity/Q1049,Sudan,Q190758,Q1049
@@ -77,17 +75,19 @@ http://www.wikidata.org/entity/Q190029,Kosovo War,http://www.wikidata.org/entity
 http://www.wikidata.org/entity/Q202465,Uganda–Tanzania War,http://www.wikidata.org/entity/Q2738248,Uganda National Liberation Front,Q202465,Q2738248
 http://www.wikidata.org/entity/Q190029,Kosovo War,http://www.wikidata.org/entity/Q28,Hungary,Q190029,Q28
 http://www.wikidata.org/entity/Q327237,Kivu conflict,http://www.wikidata.org/entity/Q249015,Democratic Forces for the Liberation of Rwanda,Q327237,Q249015
+http://www.wikidata.org/entity/Q285280,War of Pridnestrovie,http://www.wikidata.org/entity/Q159,Russia,Q285280,Q159
+http://www.wikidata.org/entity/Q285280,War of Pridnestrovie,http://www.wikidata.org/entity/Q212,Ukraine,Q285280,Q212
 http://www.wikidata.org/entity/Q190029,Kosovo War,http://www.wikidata.org/entity/Q189,Iceland,Q190029,Q189
 http://www.wikidata.org/entity/Q327237,Kivu conflict,http://www.wikidata.org/entity/Q2838075,Alliance of Patriots for a Free and Sovereign Congo,Q327237,Q2838075
 http://www.wikidata.org/entity/Q190029,Kosovo War,http://www.wikidata.org/entity/Q30,United States of America,Q190029,Q30
 http://www.wikidata.org/entity/Q190029,Kosovo War,http://www.wikidata.org/entity/Q32,Luxembourg,Q190029,Q32
+http://www.wikidata.org/entity/Q285280,War of Pridnestrovie,http://www.wikidata.org/entity/Q217,Moldova,Q285280,Q217
 http://www.wikidata.org/entity/Q371394,Bangladesh Liberation War,http://www.wikidata.org/entity/Q3349507,Provisional Government of the People's Republic of Bangladesh,Q371394,Q3349507
 http://www.wikidata.org/entity/Q318250,Ethio-Somali War,http://www.wikidata.org/entity/Q15180,Soviet Union,Q318250,Q15180
 http://www.wikidata.org/entity/Q202465,Uganda–Tanzania War,http://www.wikidata.org/entity/Q617078,People's Republic of Mozambique,Q202465,Q617078
 http://www.wikidata.org/entity/Q202465,Uganda–Tanzania War,http://www.wikidata.org/entity/Q17435890,history of Libya under Muammar Gaddafi,Q202465,Q17435890
 http://www.wikidata.org/entity/Q327237,Kivu conflict,http://www.wikidata.org/entity/Q1501987,United Nations Organization Stabilization Mission in the Democratic Republic of the Congo,Q327237,Q1501987
 http://www.wikidata.org/entity/Q327237,Kivu conflict,http://www.wikidata.org/entity/Q217726,National Congress for the Defence of the People,Q327237,Q217726
-http://www.wikidata.org/entity/Q285280,War of Pridnestrovie,http://www.wikidata.org/entity/Q907112,Pridnestrovie,Q285280,Q907112
 http://www.wikidata.org/entity/Q545449,Iraq War,,,Q545449,
 http://www.wikidata.org/entity/Q632787,Insurgency in the Maghreb (2002–),http://www.wikidata.org/entity/Q262,Algeria,Q632787,Q262
 http://www.wikidata.org/entity/Q609836,Portuguese Colonial War,http://www.wikidata.org/entity/Q907051,National Liberation Front of Angola,Q609836,Q907051
@@ -374,7 +374,9 @@ http://www.wikidata.org/entity/Q2342102,Indochina Wars,http://www.wikidata.org/e
 http://www.wikidata.org/entity/Q2652686,Kachin conflict,http://www.wikidata.org/entity/Q4783799,Arakan Army,Q2652686,Q4783799
 http://www.wikidata.org/entity/Q2342102,Indochina Wars,http://www.wikidata.org/entity/Q858887,Pathet Lao,Q2342102,Q858887
 http://www.wikidata.org/entity/Q1640107,Ifni War,http://www.wikidata.org/entity/Q69829,French Fourth Republic,Q1640107,Q69829
+http://www.wikidata.org/entity/Q2337340,Cenepa piun piun,http://www.wikidata.org/entity/Q419,Peru,Q2337340,Q419
 http://www.wikidata.org/entity/Q2342102,Indochina Wars,http://www.wikidata.org/entity/Q867778,People's Republic of Kampuchea,Q2342102,Q867778
+http://www.wikidata.org/entity/Q2337340,Cenepa piun piun,http://www.wikidata.org/entity/Q736,Ecuador,Q2337340,Q736
 http://www.wikidata.org/entity/Q2342102,Indochina Wars,http://www.wikidata.org/entity/Q2638486,Kingdom of Cambodia,Q2342102,Q2638486
 http://www.wikidata.org/entity/Q2904516,War over Water,http://www.wikidata.org/entity/Q801,Israel,Q2904516,Q801
 http://www.wikidata.org/entity/Q2904516,War over Water,http://www.wikidata.org/entity/Q810,Jordan,Q2904516,Q810
@@ -410,11 +412,10 @@ http://www.wikidata.org/entity/Q2342102,Indochina Wars,http://www.wikidata.org/e
 http://www.wikidata.org/entity/Q1760930,Paquisha War,http://www.wikidata.org/entity/Q419,Peru,Q1760930,Q419
 http://www.wikidata.org/entity/Q1760930,Paquisha War,http://www.wikidata.org/entity/Q736,Ecuador,Q1760930,Q736
 http://www.wikidata.org/entity/Q1814745,Eelam War I,http://www.wikidata.org/entity/Q80312,Liberation Tigers of Tamil Eelam,Q1814745,Q80312
-http://www.wikidata.org/entity/Q2337340,Cenepa piun piun,http://www.wikidata.org/entity/Q419,Peru,Q2337340,Q419
 http://www.wikidata.org/entity/Q2342102,Indochina Wars,http://www.wikidata.org/entity/Q423,North Korea,Q2342102,Q423
-http://www.wikidata.org/entity/Q2337340,Cenepa piun piun,http://www.wikidata.org/entity/Q736,Ecuador,Q2337340,Q736
 http://www.wikidata.org/entity/Q1922071,Indo-Pakistani War of 1971,http://www.wikidata.org/entity/Q843,Pakistan,Q1922071,Q843
 http://www.wikidata.org/entity/Q1922071,Indo-Pakistani War of 1971,http://www.wikidata.org/entity/Q668,India,Q1922071,Q668
+http://www.wikidata.org/entity/Q4072719,Afghanistan–Pakistan skirmishes,http://www.wikidata.org/entity/Q889,Afghanistan,Q4072719,Q889
 http://www.wikidata.org/entity/Q748780,First Indochina War,http://www.wikidata.org/entity/Q2638478,Khmer Issarak,Q748780,Q2638478
 http://www.wikidata.org/entity/Q1072042,War in Somalia (2006-2009),http://www.wikidata.org/entity/Q927467,Galmudug,Q1072042,Q927467
 http://www.wikidata.org/entity/Q4072719,Afghanistan–Pakistan skirmishes,http://www.wikidata.org/entity/Q843,Pakistan,Q4072719,Q843
@@ -434,7 +435,6 @@ http://www.wikidata.org/entity/Q1072042,War in Somalia (2006-2009),http://www.wi
 http://www.wikidata.org/entity/Q1072042,War in Somalia (2006-2009),http://www.wikidata.org/entity/Q6110167,Jabhatul Islamiya,Q1072042,Q6110167
 http://www.wikidata.org/entity/Q1069736,Croat–Bosniak War,http://www.wikidata.org/entity/Q334731,Croatian Republic of Herzeg-Bosnia,Q1069736,Q334731
 http://www.wikidata.org/entity/Q185729,War on Terror,http://www.wikidata.org/entity/Q30,United States of America,Q185729,Q30
-http://www.wikidata.org/entity/Q17507684,Military intervention against ISIL,http://www.wikidata.org/entity/Q18712599,Combined Joint Task Force – Operation Inherent Resolve,Q17507684,Q18712599
 http://www.wikidata.org/entity/Q838695,First Congo War,http://www.wikidata.org/entity/Q6500954,Zaire,Q838695,Q6500954
 http://www.wikidata.org/entity/Q838695,First Congo War,http://www.wikidata.org/entity/Q2367261,Alliance of Democratic Forces for the Liberation of Congo,Q838695,Q2367261
 http://www.wikidata.org/entity/Q1072042,War in Somalia (2006-2009),http://www.wikidata.org/entity/Q1641888,African Union Mission to Somalia,Q1072042,Q1641888
@@ -460,6 +460,7 @@ http://www.wikidata.org/entity/Q182865,War in Afghanistan,http://www.wikidata.or
 http://www.wikidata.org/entity/Q182865,War in Afghanistan,http://www.wikidata.org/entity/Q16,Canada,Q182865,Q16
 http://www.wikidata.org/entity/Q182865,War in Afghanistan,http://www.wikidata.org/entity/Q145,United Kingdom,Q182865,Q145
 http://www.wikidata.org/entity/Q959303,War in Abkhazia (1998),http://www.wikidata.org/entity/Q2593093,Forest Brothers,Q959303,Q2593093
+http://www.wikidata.org/entity/Q17507684,Military intervention against ISIL,http://www.wikidata.org/entity/Q18712599,Combined Joint Task Force – Operation Inherent Resolve,Q17507684,Q18712599
 http://www.wikidata.org/entity/Q179275,War in North-West Pakistan,http://www.wikidata.org/entity/Q2429253,Islamic State of Iraq and the Levant,Q179275,Q2429253
 http://www.wikidata.org/entity/Q2992536,Basque conflict,http://www.wikidata.org/entity/Q2276662,Basque National Liberation Movement,Q2992536,Q2276662
 http://www.wikidata.org/entity/Q179275,War in North-West Pakistan,http://www.wikidata.org/entity/Q3186738,Jundallah,Q179275,Q3186738
@@ -539,7 +540,6 @@ http://www.wikidata.org/entity/Q1143379,1991–1992 South Ossetia War,http://www
 http://www.wikidata.org/entity/Q1262084,Djiboutian Civil War,http://www.wikidata.org/entity/Q977,Djibouti,Q1262084,Q977
 http://www.wikidata.org/entity/Q182865,War in Afghanistan,http://www.wikidata.org/entity/Q3076828,055 Brigade,Q182865,Q3076828
 http://www.wikidata.org/entity/Q1072042,War in Somalia (2006-2009),http://www.wikidata.org/entity/Q485112,Puntland,Q1072042,Q485112
-http://www.wikidata.org/entity/Q4072719,Afghanistan–Pakistan skirmishes,http://www.wikidata.org/entity/Q889,Afghanistan,Q4072719,Q889
 http://www.wikidata.org/entity/Q163883,Ten-Day War,http://www.wikidata.org/entity/Q266026,Igor Bavčar,Q163883,Q266026
 http://www.wikidata.org/entity/Q521199,North Yemen Civil War,http://www.wikidata.org/entity/Q851,Saudi Arabia,Q521199,Q851
 http://www.wikidata.org/entity/Q521199,North Yemen Civil War,http://www.wikidata.org/entity/Q42013,Anwar Sadat,Q521199,Q42013
@@ -794,10 +794,8 @@ http://www.wikidata.org/entity/Q1781457,Bissau-Guinean Civil War,,,Q1781457,
 http://www.wikidata.org/entity/Q1915188,Suriname Guerrilla War,,,Q1915188,
 http://www.wikidata.org/entity/Q11050383,Eelam War II,http://www.wikidata.org/entity/Q854,Sri Lanka,Q11050383,Q854
 http://www.wikidata.org/entity/Q1021175,First Ivorian Civil War,,,Q1021175,
-http://www.wikidata.org/entity/Q16911838,Libyan civil war (2014–present),http://www.wikidata.org/entity/Q21039420,Tuareg militias of Ghat,Q16911838,Q21039420
 http://www.wikidata.org/entity/Q1980081,Civil war in Afghanistan (1992–96),,,Q1980081,
 http://www.wikidata.org/entity/Q17272643,spillover of the Syrian Civil War,,,Q17272643,
-http://www.wikidata.org/entity/Q16911838,Libyan civil war (2014–present),http://www.wikidata.org/entity/Q22120970,Government of National Accord,Q16911838,Q22120970
 http://www.wikidata.org/entity/Q1052332,War in Somalia (2009–),,,Q1052332,
 http://www.wikidata.org/entity/Q1122422,Paraguayan Civil War of 1947,,,Q1122422,
 http://www.wikidata.org/entity/Q1960733,Second Liberian Civil War,http://www.wikidata.org/entity/Q4774296,Anti-Terrorist Unit,Q1960733,Q4774296
@@ -811,7 +809,6 @@ http://www.wikidata.org/entity/Q945700,Chad-Sudan Conflict  (2005–2010),,,Q945
 http://www.wikidata.org/entity/Q1960733,Second Liberian Civil War,http://www.wikidata.org/entity/Q3331367,Armed Forces of Liberia,Q1960733,Q3331367
 http://www.wikidata.org/entity/Q1960733,Second Liberian Civil War,http://www.wikidata.org/entity/Q6503255,Liberian National Police,Q1960733,Q6503255
 http://www.wikidata.org/entity/Q877450,Laotian Civil War,http://www.wikidata.org/entity/Q858887,Pathet Lao,Q877450,Q858887
-http://www.wikidata.org/entity/Q16911838,Libyan civil war (2014–present),http://www.wikidata.org/entity/Q935288,Libyan armed forces,Q16911838,Q935288
 http://www.wikidata.org/entity/Q1282732,Guatemalan Civil War,http://www.wikidata.org/entity/Q430960,Guatemalan National Revolutionary Unity,Q1282732,Q430960
 http://www.wikidata.org/entity/Q1282732,Guatemalan Civil War,http://www.wikidata.org/entity/Q1154742,Politics of Guatemala,Q1282732,Q1154742
 http://www.wikidata.org/entity/Q1122110,Civil war in Tajikistan,http://www.wikidata.org/entity/Q4330417,United Tajik Opposition,Q1122110,Q4330417
@@ -819,6 +816,8 @@ http://www.wikidata.org/entity/Q11154636,Eelam War III,http://www.wikidata.org/e
 http://www.wikidata.org/entity/Q877450,Laotian Civil War,http://www.wikidata.org/entity/Q172640,North Vietnam,Q877450,Q172640
 http://www.wikidata.org/entity/Q877450,Laotian Civil War,http://www.wikidata.org/entity/Q870055,Kingdom of Laos,Q877450,Q870055
 http://www.wikidata.org/entity/Q54448834,Gunnut Operation,,,Q54448834,
+http://www.wikidata.org/entity/Q16911838,Libyan civil war (2014–present),http://www.wikidata.org/entity/Q21039420,Tuareg militias of Ghat,Q16911838,Q21039420
+http://www.wikidata.org/entity/Q16911838,Libyan civil war (2014–present),http://www.wikidata.org/entity/Q22120970,Government of National Accord,Q16911838,Q22120970
 http://www.wikidata.org/entity/Q18920712,War in Afghanistan (2015–),http://www.wikidata.org/entity/Q18651204,Resolute Support Mission,Q18920712,Q18651204
 http://www.wikidata.org/entity/Q11942758,Ethiopian-Somali border conflict,http://www.wikidata.org/entity/Q1045,Somalia,Q11942758,Q1045
 http://www.wikidata.org/entity/Q16974363,Eastern Theater of Eelam War IV,http://www.wikidata.org/entity/Q854,Sri Lanka,Q16974363,Q854
@@ -835,6 +834,7 @@ http://www.wikidata.org/entity/Q17324420,2014 Israel–Gaza conflict,http://www.
 http://www.wikidata.org/entity/Q1122110,Civil war in Tajikistan,http://www.wikidata.org/entity/Q265,Uzbekistan,Q1122110,Q265
 http://www.wikidata.org/entity/Q68718107,Moba Wars,,,Q68718107,
 http://www.wikidata.org/entity/Q1122110,Civil war in Tajikistan,http://www.wikidata.org/entity/Q813,Kyrgyzstan,Q1122110,Q813
+http://www.wikidata.org/entity/Q16911838,Libyan civil war (2014–present),http://www.wikidata.org/entity/Q935288,Libyan armed forces,Q16911838,Q935288
 http://www.wikidata.org/entity/Q17324420,2014 Israel–Gaza conflict,http://www.wikidata.org/entity/Q212884,Popular Front for the Liberation of Palestine,Q17324420,Q212884
 http://www.wikidata.org/entity/Q17324420,2014 Israel–Gaza conflict,http://www.wikidata.org/entity/Q309474,Al-Aqsa Martyrs' Brigades,Q17324420,Q309474
 http://www.wikidata.org/entity/Q11050383,Eelam War II,http://www.wikidata.org/entity/Q80312,Liberation Tigers of Tamil Eelam,Q11050383,Q80312
