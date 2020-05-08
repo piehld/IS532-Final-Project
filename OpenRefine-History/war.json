@@ -1,0 +1,62 @@
+[
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "startDate",
+    "expression": "grel:chomp(value,\"T00:00:00Z\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column startDate using expression grel:chomp(value,\"T00:00:00Z\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "endDate",
+    "expression": "grel:chomp(value,\"T00:00:00Z\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column endDate using expression grel:chomp(value,\"T00:00:00Z\")"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "warName",
+          "expression": "value",
+          "columnName": "warName",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Q2634899",
+                "l": "Q2634899"
+              }
+            },
+            {
+              "v": {
+                "v": "Q65251940",
+                "l": "Q65251940"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  }
+]
