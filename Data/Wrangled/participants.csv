@@ -167,7 +167,6 @@ Q190731,Shamil Basayev,Chechen militant Islamist leader,Person,,,
 Q207991,Imperial State of Iran,predecessor to the Islamic Republic of Iran,State,1925-01-01T00:00:00Z,1979-01-01T00:00:00Z,
 Q146885,Second Syrian Republic,government of Syria from 1950 to 1958 and 1961 to 1963,State,1950-01-01T00:00:00Z,1963-01-01T00:00:00Z,
 Q57274,Yoweri Kaguta Museveni,President of Uganda,Person,,,
-Q146885,Second Syrian Republic,government of Syria from 1950 to 1958 and 1961 to 1963,State,1950-01-01T00:00:00Z,1958-01-01T00:00:00Z,
 Q39524,Gamal Abdel Nasser,second president of Egypt,Person,,,
 Q83162,African National Congress,political party in South Africa,Political Party,1912-01-21T00:00:00Z,,
 Q191764,Khmer Rouge,followers of the Communist Party of Kampuchea in Cambodia,Other Organization,1951-06-29T00:00:00Z,,
@@ -196,10 +195,8 @@ Q209065,Kingdom of Greece,kingdom in Southern Europe during the 19th and 20th ce
 Q57627,Janez Janša,Slovenian politician,Person,,,
 Q238754,Pavel Grachev,Soviet generals,Person,,,
 Q144806,Movement for the Liberation of the Congo,"political party (Founded on 5 April 2003, formerly a Ugandan-supported rebel movement, created in 1998 under the leadership of Jean-Pierre Bemba.)",Political Party,2003-04-05T00:00:00Z,,
-Q146885,Second Syrian Republic,government of Syria from 1950 to 1958 and 1961 to 1963,State,1961-01-01T00:00:00Z,1963-01-01T00:00:00Z,
 Q193354,Aslan Maskhadov,Chechen warlord,Person,,,
 Q170468,United Arab Republic,former country,State,1958-01-01T00:00:00Z,1961-09-28T00:00:00Z,
-Q146885,Second Syrian Republic,government of Syria from 1950 to 1958 and 1961 to 1963,State,1961-01-01T00:00:00Z,1958-01-01T00:00:00Z,
 Q178328,Janjaweed,North African militia,Armed Organization,1987-01-01T00:00:00Z,,
 Q19878,Muammar Gaddafi,"Libyan revolutionary, politician and political theorist",Person,,,
 Q171795,Abkhazians,"Northwest Caucasian ethnic group, mainly living in Abkhazia",Ethnic Group,,,
@@ -279,7 +276,6 @@ Q2429253,Islamic State of Iraq and the Levant,Salafi jihadist terrorist and mili
 Q2006542,Dominion of Pakistan,state in Asia 15 August 1947 – 23 March 1956,State,1947-01-01T00:00:00Z,1956-01-01T00:00:00Z,
 Q1641888,African Union Mission to Somalia,peacekeeping mission,Other,,,
 Q1806585,Lashkar-e-Islam,,Armed Organization,2004-01-01T00:00:00Z,,
-Q2429253,Islamic State of Iraq and the Levant,Salafi jihadist terrorist and militant group,State,2006-01-01T00:00:00Z,,
 Q1498659,Rally for Congolese Democracy,political party,Political Party,1999-05-20T00:00:00Z,,
 Q2738248,Uganda National Liberation Front,Ugandan military alliance,Other Organization,1979-01-01T00:00:00Z,1986-01-01T00:00:00Z,
 Q2298600,Alliance for the Re-liberation of Somalia,,Political Party,2007-01-01T00:00:00Z,2009-01-01T00:00:00Z,
@@ -299,7 +295,6 @@ Q2293745,Arab Deterrent Force,international peacekeeping force created by the Ar
 Q29,Spain,constitutional monarchy in Southwest Europe,State,1479-01-01T00:00:00Z,,ESP
 Q142,France,sovereign state with mainland in Europe and several overseas territories,State,,,FRA
 Q79,Egypt,sovereign state in Africa and Asia,State,1922-02-28T00:00:00Z,,EGY
-Q79,Egypt,sovereign state in Africa and Asia,State,-3149-01-01T00:00:00Z,,EGY
 Q38,Italy,sovereign state in Southern Europe,State,1946-06-18T00:00:00Z,,ITA
 Q36,Poland,sovereign state in Central Europe,State,1918-11-11T00:00:00Z,,POL
 Q32,Luxembourg,sovereign state in Western Europe,State,1815-01-01T00:00:00Z,,LUX
@@ -331,7 +326,6 @@ Q974,Democratic Republic of the Congo,sovereign state in Central Africa,State,19
 Q948,Tunisia,sovereign state in Northern Africa,State,1956-03-20T00:00:00Z,,TUN
 Q16,Canada,sovereign state in North America,State,1867-07-01T00:00:00Z,,CAN
 Q1036,Uganda,sovereign state in East Africa,State,1962-01-01T00:00:00Z,,UGA
-Q889,Afghanistan,"sovereign state situated at the confluence of Western, Central, and South Asia",State,1978-01-01T00:00:00Z,,AFG
 Q928,Philippines,"sovereign state in Southeast Asia, situated on an archipelago of over 7,600 islands in the western Pacific Ocean",State,1565-01-01T00:00:00Z,,PHL
 Q1049,Sudan,sovereign state in Northeast Africa,State,1956-01-01T00:00:00Z,,SDN
 Q23427,South Ossetia,disputed region in the South Caucasus,State,1990-09-20T00:00:00Z,,
@@ -340,7 +334,6 @@ Q5237,Republic of North Ossetia-Alania,"federal subject of Russia, republic of R
 Q1016,Libya,sovereign state in north Africa,State,1951-12-24T00:00:00Z,,LBY
 Q1030,Namibia,sovereign state in southern Africa,State,1990-01-01T00:00:00Z,,NAM
 Q7172,Arab League,organisation of Arab states,International Organization,1945-03-22T00:00:00Z,,
-Q889,Afghanistan,"sovereign state situated at the confluence of Western, Central, and South Asia",State,1992-01-01T00:00:00Z,,AFG
 Q889,Afghanistan,"sovereign state situated at the confluence of Western, Central, and South Asia",State,1926-01-01T00:00:00Z,,AFG
 Q1025,Mauritania,sovereign state in Africa,State,1960-01-01T00:00:00Z,,MRT
 Q1014,Liberia,sovereign state in West Africa,State,1822-01-07T00:00:00Z,,LBR
@@ -353,36 +346,26 @@ Q9603,Sufism,"inner, mystical dimension of Islam",Other,,,
 Q912,Mali,sovereign state in West Africa,State,1960-09-22T00:00:00Z,,MLI
 Q15180,Soviet Union,1922–1991 country in Europe and Asia,State,1922-12-30T00:00:00Z,1991-12-26T00:00:00Z,SUN
 Q1028,Morocco,sovereign state in North Africa,State,1956-04-07T00:00:00Z,,MAR
-Q889,Afghanistan,"sovereign state situated at the confluence of Western, Central, and South Asia",State,2002-01-01T00:00:00Z,,AFG
 Q963,Botswana,sovereign state in Southern Africa,State,1966-01-01T00:00:00Z,,BWA
 Q1045,Somalia,sovereign state in Africa,State,1960-01-01T00:00:00Z,,SOM
-Q20,Norway,sovereign state in Northern Europe,State,1814-05-17T00:00:00Z,,NOR
 Q958,South Sudan,sovereign state in Africa,State,2011-07-09T00:00:00Z,,SSD
 Q954,Zimbabwe,sovereign state in southern Africa,State,1980-04-18T00:00:00Z,,ZWE
 Q23334,Abkhazia,geographic region in Georgia,Other,,,
 Q1041,Senegal,sovereign state in Western Africa,State,1960-01-01T00:00:00Z,,SEN
-Q889,Afghanistan,"sovereign state situated at the confluence of Western, Central, and South Asia",State,1709-01-01T00:00:00Z,,AFG
 Q7184,NATO,intergovernmental military alliance of Western states,International Organization,1949-04-04T00:00:00Z,,
-Q889,Afghanistan,"sovereign state situated at the confluence of Western, Central, and South Asia",State,1823-01-01T00:00:00Z,,AFG
 Q924,Tanzania,sovereign state in Africa,State,1964-04-26T00:00:00Z,,TZA
-Q20,Norway,sovereign state in Northern Europe,State,1905-10-26T00:00:00Z,,NOR
 Q18973,Georgians,Caucasian ethnic group that are indigenous to Georgia,Ethnic Group,,,
 Q929,Central African Republic,sovereign state in Africa,State,1960-01-01T00:00:00Z,,CAF
 Q20,Norway,sovereign state in Northern Europe,State,1905-06-07T00:00:00Z,,NOR
-Q20,Norway,sovereign state in Northern Europe,State,0900-01-01T00:00:00Z,,NOR
-Q881,Vietnam,sovereign state in Southeast Asia,State,1976-07-02T00:00:00Z,,VNM
 Q1033,Nigeria,sovereign state in West Africa,State,1960-01-01T00:00:00Z,,NGA
 Q1032,Niger,sovereign state in Western Africa,State,1960-01-01T00:00:00Z,,NER
 Q11223,United States Air Force,air warfare branch of the United States Armed Forces,Armed Organization,1947-01-01T00:00:00Z,,
-Q889,Afghanistan,"sovereign state situated at the confluence of Western, Central, and South Asia",State,1973-01-01T00:00:00Z,,AFG
-Q889,Afghanistan,"sovereign state situated at the confluence of Western, Central, and South Asia",State,1747-06-19T00:00:00Z,,AFG
 Q817,Kuwait,sovereign state in Western Asia,State,1991-02-26T00:00:00Z,,KWT
 Q414,Argentina,sovereign state in South America,State,1816-07-09T00:00:00Z,,ARG
 Q668,India,sovereign state in South Asia,State,1947-08-15T00:00:00Z,,IND
 Q792,El Salvador,sovereign state in Central America,State,1842-01-01T00:00:00Z,,SLV
 Q574,East Timor,sovereign state situated on several islands in Southeast Asia,State,2002-05-20T00:00:00Z,,TLS
 Q796,Iraq,sovereign state in Western Asia,State,1932-01-01T00:00:00Z,,IRQ
-Q736,Ecuador,sovereign state in South America,State,1811-10-11T00:00:00Z,,ECU
 Q833,Malaysia,sovereign state in Southeast Asia,State,1957-01-01T00:00:00Z,,MYS
 Q783,Honduras,sovereign state in Central America,State,1821-01-01T00:00:00Z,,HND
 Q858,Syria,sovereign state in Western Asia,State,1920-03-08T00:00:00Z,,SYR
@@ -398,9 +381,7 @@ Q822,Lebanon,sovereign state in Western Asia,State,1943-11-22T00:00:00Z,,LBN
 Q843,Pakistan,sovereign state in South Asia,State,1947-08-14T00:00:00Z,,PAK
 Q854,Sri Lanka,"sovereign state in South Asia, situated on an island in the Indian Ocean",State,1972-05-22T00:00:00Z,,LKA
 Q736,Ecuador,sovereign state in South America,State,1809-08-10T00:00:00Z,,ECU
-Q869,Thailand,sovereign state in Southeast Asia,State,1238-01-01T00:00:00Z,,THA
 Q863,Tajikistan,sovereign state in Central Asia,State,1991-09-09T00:00:00Z,,TJK
-Q736,Ecuador,sovereign state in South America,State,1822-05-24T00:00:00Z,,ECU
 Q657,Chad,sovereign state in central Africa,State,1960-08-11T00:00:00Z,,TCD
 Q664,New Zealand,"sovereign state in Oceania, situated on two main and around 600 smaller islands in the southwestern Pacific Ocean",State,,,NZL
 Q810,Jordan,sovereign state in Western Asia,State,1946-01-01T00:00:00Z,,JOR
