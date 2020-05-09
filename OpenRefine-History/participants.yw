@@ -1,0 +1,27 @@
+#@begin Linear_OR #@desc Linear OpenRefine Workflow
+#@param col-name:dissolved
+#@param col-name:participantLabel
+#@param col-name:inception
+#@param expression:grel:chomp(value,"T00:00:00Z")
+#@param expression:"value"
+#@in table0
+#@out table3
+#@begin core/row-removal0#@desc Remove rows
+#@param col-name:participantLabel
+#@param expression:"value"
+#@in table0
+#@out table1
+#@end core/row-removal0
+#@begin core/text-transform0#@desc Text transform on cells in column inception using expression grel:chomp(value,\"T00:00:00Z\")
+#@param col-name:inception
+#@param expression:grel:chomp(value,"T00:00:00Z")
+#@in table1
+#@out table2
+#@end core/text-transform0
+#@begin core/text-transform1#@desc Text transform on cells in column dissolved using expression grel:chomp(value,\"T00:00:00Z\")
+#@param col-name:dissolved
+#@param expression:grel:chomp(value,"T00:00:00Z")
+#@in table2
+#@out table3
+#@end core/text-transform1
+#@end Linear_OR

@@ -1,0 +1,20 @@
+#@begin Linear_OR #@desc Linear OpenRefine Workflow
+#@param expression:"row.starred"
+#@param col-name:locationLabel
+#@param expression:"value"
+#@param col-name:
+#@in table0
+#@out table2
+#@begin core/row-removal0#@desc Remove rows
+#@param col-name:locationLabel
+#@param expression:"value"
+#@in table0
+#@out table1
+#@end core/row-removal0
+#@begin core/row-removal1#@desc Remove rows
+#@param col-name:
+#@param expression:"row.starred"
+#@in table1
+#@out table2
+#@end core/row-removal1
+#@end Linear_OR
